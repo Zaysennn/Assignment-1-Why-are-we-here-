@@ -9,9 +9,9 @@ As a game developer with level designer. I use Unreal Engine Blueprints with an 
 
 ### Fast beginnings, difficult endings
 
-In familiar fields, my rough impression is that AI can take the basic implementation from 0% to 80% in about 5% of the development time. I then spend the remaining 95% using professional knowledge to refine the final 20%.
+In my familiar fields, my impression is that AI can take the basic implementation process from 0% to 80% in about 5% of the development time. then I spend the remaining 95% time using professional knowledge to refine the final 20% process.
 
-Taking that familiar workflow's total time as 100%, I believe that using AI to enter an unfamiliar field without relevant knowledge could consume 150% or even 200%, yet leave me at only 80–90% completion, stuck on the final 10%. These figures are personal estimates and a hypothetical comparison, not measurements. They express how apparent progress can quickly turn into prolonged trial and error.
+Taking that familiar workflow's total time as 100%, I believe that using AI to enter an unfamiliar field without relevant knowledge could consume time about 150% or even 200% more, yet leave the only 80–90% completion, stuck on the final 10% process. These figures are personal estimates and a hypothetical comparison, not measurements. They express how apparent progress can quickly turn into prolonged trial and error.
 
 The difficulty is often knowing where to look. During prototyping, I have encountered problems with node parameters, object configurations, materials, and collision settings. Without understanding these areas, I might keep requesting changes without knowing whether AI is investigating the relevant part of the system.
 
