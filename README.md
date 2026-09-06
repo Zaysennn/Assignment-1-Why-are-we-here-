@@ -9,11 +9,15 @@ As a game developer with level designer. I use Unreal Engine Blueprints with an 
 
 ### Fast beginnings, difficult endings
 
-In my familiar fields, my impression is that AI can take the basic implementation process from 0% to 80% in about 5% of the development time. then I spend the remaining 95% time using professional knowledge to refine the final 20% process.
+When I first started using AI-assisted development, I was excited by how quickly it could implement gameplay mechanics. A standard mechanic that previously took me an hour or even a full day to work out could appear almost immediately.
 
-Taking that familiar workflow's total time as 100%, I believe that using AI to enter an unfamiliar field without relevant knowledge could consume time about 150% or even 200% more, yet leave the only 80–90% completion, stuck on the final 10% process. These figures are personal estimates and a hypothetical comparison, not measurements. They express how apparent progress can quickly turn into prolonged trial and error.
+However, adding more features exposed conflicts during playtesting. Separately generated mechanics did not always integrate properly. This taught me the importance of planning the overall architecture and interactions between systems, rather than adding features whenever a new idea came to mind.
 
-The difficulty is often knowing where to look. During prototyping, I have encountered problems with node parameters, object configurations, materials, and collision settings. Without understanding these areas, I might keep requesting changes without knowing whether AI is investigating the relevant part of the system.
+In fields I know well, AI seems able to take basic implementation process from 0% to 80% in about 5% of the development time. I then spend the remaining 95% time applying professional knowledge to debug, integrate, and refine the final process of 20%.
+
+Taking that familiar workflow’s total time as 100%, I felt that working in an unfamiliar field with AI could consume time of 150% or even 200% more, and yet leave me at only 80–90% completion process with stuck on the final 10%. These are personal estimates and a hypothetical comparison, not measurements. Fast initial progress can turn into prolonged trial and error.
+
+The difficulty is often knowing where to look. I have encountered problems with node parameters, object configurations, materials, and collision settings. Without understanding these areas, I could keep requesting changes without knowing whether AI is investigating the actual cause.
 
 ### A little personal experience - Unreal MCP+AI
 
