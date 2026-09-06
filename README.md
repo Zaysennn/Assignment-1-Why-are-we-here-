@@ -1,7 +1,7 @@
 # Assignment-1-Why-are-we-here-
 ChiSang Cheng's Assignment 1 for SD5913.
 
-## Reading versus writing. If a machine writes the code, someone still has to know whether it is any good. What does it take to be that someone?
+## Direction: Reading versus writing. If a machine writes the code, someone still has to know whether it is any good. What does it take to be that someone?
 
 If AI builds a system, what must I understand to judge its quality? I will also explore “The gap between describing and specifying”, because technical understanding shapes the questions I can ask.
 

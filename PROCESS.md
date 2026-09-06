@@ -1,7 +1,7 @@
 # Process
 ## Which tools I used, and for what
 
-For this assignment, I used Codex and GPT-6 Astra model. They helped turn Dylan Beattie’s video into reading notes, compare possible essay topics, organise my ideas, and draft and revise the essay.
+For this assignment, I used Codex and GPT-6 Astra model. They helped turn Dylan Beattie’s video into reading notes, compare possible essay topics, organise my ideas, draft the essay and also help me count the words :) .
 
 I gave the AI my background, real experiences; such as estimates of the time I spent, and my thoughts on 'terms'. I also supplied the analogy about hiring aerospace engineers to fix “Hello world” code. My use of Unreal Blueprints with MCP AI, and GPT to analyse game design documents, provided the practical background for the essay. The AI’s main roles were helping me brainstorm at the beginning and improving the structure of the writing.
 
