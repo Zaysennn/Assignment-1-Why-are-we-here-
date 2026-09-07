@@ -43,13 +43,13 @@ Better questions can also improve human–AI collaboration and, with usage-based
 
 In The Art of Code, Beattie (2020, 22:11–24:43) introduces an artist discussing tool limitations, experimentation, and rapid feedback, followed by a photograph reconstructed through depth analysis and layered processing.
 
-I connect this example to my AI workflow: faster iteration expands what I can attempt, while understanding the medium helps me direct those attempts. The talk demonstrates programming as creative expression, but does not establish that every designer needs the same technical depth.
+I connect this example to my AI workflow: faster iteration expands what I can attempt, while understanding the medium helps me guide those attempts. The talk shows how programming can become a form of creative expression, but does not establish that every designer needs the same depth of technical knowledge.
 
-My argument faces a reasonable objection: a more capable AI might immediately identify and fix that collision issue. My experience does not prove a permanent limitation of AI, which can also help beginners learn.
+My argument also faces a reasonable objection: a more capable AI model might immediately identify and fix deeper issues that currently require human review. My experience does not prove that AI has permanent limitations.
 
-I therefore do not believe everyone must memorise all syntax or manually build every component. For my practice, the priority is enough knowledge to trace gameplay behaviour, inspect configurations, test assumptions, and judge whether a solution supports the intended gameplay.
+I therefore do not believe everyone needs to memorise every aspect of syntax or build every component manually. In my practice, what matters more is having enough knowledge to trace gameplay behaviour, inspect configurations, test assumptions, and judge whether a solution supports the intended gameplay.
 
-I want AI to keep accelerating the first 80%. I learn programming to make informed decisions about the rest, including when to accept AI's output and when to intervene. Professional knowledge helps me turn quickly generated content into gameplay mechanics that actually serve my design.
+I want AI to keep accelerating the first 80% of the work. I learn programming to make informed decisions about the rest, including when to accept AI’s output and when to step in myself. Professional knowledge helps me turn quickly generated content into something that actually serves my design.
 
 ### References
 
