@@ -27,7 +27,7 @@ I asked AI to troubleshoot it. It repeatedly inspected and modified the code wit
 
 This experience changed my understanding of “complete”. Without the conditions needed to trigger the logic, a seemingly complete implementation could not function. Resolving the issue required examining more than the code AI kept revising. My contribution was identifying a missing connection between gameplay logic and scene configuration.
 
-Any playtester could notice that the mechanic was broken; that alone required no programming knowledge. Technical understanding helped me narrow the investigation and make an effective fix. Blueprints combine programming logic with engine configuration, and Epic Games (n.d.) defines them as a complete gameplay scripting system using a node-based interface. For me, learning programming includes understanding how events, objects, and conditions connect. This helps me test a diagnosis instead of repeatedly asking AI to try again.
+Any playtester could notice that the mechanic was broken; that alone required no programming knowledge. Technical understanding helped me narrow the investigation and make an effective fix. Blueprints combine programming logic with engine configuration, and [Epic Games](https://dev.epicgames.com/documentation/unreal-engine/blueprints-visual-scripting-in-unreal-engine?lang=en-US) defines them as a complete gameplay scripting system using a node-based interface. For me, learning programming includes understanding how events, objects, and conditions connect. This helps me test a diagnosis instead of repeatedly asking AI to try again.
 
 ### The 'Terms' as a key
 
