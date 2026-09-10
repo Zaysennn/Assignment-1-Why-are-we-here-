@@ -1,11 +1,9 @@
 # Process
 ## Which tools I used, and for what
 
-I used Codex with GPT-6 Astra to turn the video into reading notes, compare essay topics, organise my ideas, and check the word count.
+I used Codex with GPT-6 Astra to turn the video into reading notes, compare essay topics, organise my ideas, and check the word count. In practice, I found that humans are often emotional and easily carried away, while AI remains consistently rational and level-headed; when I became too absorbed in a particular idea and drifted off topic, it would often help redirect me back to the original line of reasoning. 
 
-Initially, I wanted to choose almost every topic because each connected to my experience. I shared my background and arguments with GPT and treated our conversation as a “group discussion”. Together, we narrowed the focus and developed a clearer structure.
-
-I supplied the development-time estimates, thoughts on professional terminology, and the analogy about hiring aerospace engineers to fix “Hello world” code. My experience with Unreal Blueprints, MCP AI, and GPT for analysing game design documents provided the practical background.
+Initially, I wanted to choose almost every topic because each connected to my experience. I shared my background and arguments with GPT and treated our conversation as a “group discussion”. Together, we narrowed the focus and developed a clearer structure. I supplied the development-time estimates, thoughts on professional terminology, and the analogy about hiring aerospace engineers to fix “Hello world” code. My experience with Unreal Blueprints, MCP AI, and GPT for analysing game design documents provided the practical background.
 
 ## One thing it produced that I kept, and why it was good
 
