@@ -56,3 +56,5 @@ I want AI to keep accelerating the first 80% of the work. I learn programming to
 Beattie, D. (2020, January 31). The art of code [Conference presentation]. NDC London, London, United Kingdom.
 
 Epic Games. (n.d.). Blueprints visual scripting. Unreal Engine documentation.
+
+.
